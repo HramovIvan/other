@@ -5,3 +5,6 @@
 
 <h4>collatz_conjecture.cpp</h5>
 <p>Demonstration of the collatz hypothesis.</p>
+
+<h4>discordfunbot.js</h5>
+<p>Discord bot for fun.</p>
